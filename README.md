@@ -1,4 +1,4 @@
 # battleship
 battleship game
 
-notion link https://outgoing-millennium-230.notion.site/Physics-calculator-4ee6f58f80514d8f82093e395f057036
+notion link https://outgoing-millennium-230.notion.site/battleship-5f61fb35f9624c388a34aaf6f3f34adc
